@@ -1,0 +1,6 @@
+#Robocode robot team
+#Tue Mar 28 20:08:24 BST 2017
+team.members=myrobots.TeamLeaderTP*,myrobots.TeamDroidTP*,myrobots.TeamDroidTP*
+team.author.name=Grupo1
+robocode.version=1.9.2.6
+team.description=Team Leader and 2 Doids
